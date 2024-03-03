@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "PustanAlex",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://github.com/PustanAlex/fckparcel",
   "scripts": {
     "start": "parcel ./*.html",
-    "build": "parcel build ./*.html --public-url /parcel-project-template/"
+    "build": "parcel build ./*.html --public-url /fckparcel/"
   },
   "repository": {
     "type": "git",
